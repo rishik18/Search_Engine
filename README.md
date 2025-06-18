@@ -1,4 +1,4 @@
-# Search_Engine
+# Search Engine
 
 ## Introduction
 This project implements a search engine using a compressed Trie and an Inverted index.
