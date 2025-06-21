@@ -4,6 +4,9 @@
 This project implements a search engine using a compressed Trie and an Inverted index.
 The code is written in Python using a Jupyter Notebook.
 
+## Video Demo
+Link: https://youtu.be/cXfTzs-F8Qw
+
 ## Implementation
 1) Input files: The HTML files are saved locally. Six Wikipedia pages related to bears have
 been used.
